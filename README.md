@@ -8,4 +8,4 @@ postgresql-study 中文资料
 
 ####经验资料
 1. [怎样查看数据库里所有的表名，和表的结构？](http://bbs.chinaunix.net/thread-4184078-1-1.html)
-2. 
+2. [Understanding PostgreSQL Explain](http://pan.baidu.com/s/1eQk48TW) (提取码:36mu)
